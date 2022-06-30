@@ -1,0 +1,6 @@
+name: SubwaySurfers
+version: 1.0.0
+main: de.greenman999.subwaysurfers.SubwaySurfers
+api-version: 1.19
+authors: [Greenman999]
+website: https://greenman999.de
